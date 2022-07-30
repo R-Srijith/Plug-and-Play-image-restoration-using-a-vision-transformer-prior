@@ -2,6 +2,7 @@
 Codes from my internship at IISC on Plug-and-Play Image Deblurring and Super-Resolution with Vision Transformer Denoiser
 ------------------------------------------------------------------------------------------------------------------------
 Please refer to the report for information regarding the project.
+
 The codes for half quadratic splitting were modified from from https://github.com/cszn/DPIR and the below paper was used as reference 
 
 @article{zhang2021plug,
